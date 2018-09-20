@@ -1,4 +1,4 @@
-## cred-harvester-stuffer
+## Cred_Harvester_Stuffer
 
 Given a phishing website and the correct headers from a test HTTP POST request
 Set the user-agent to a version of Chrome, a referer of Google, and send 4k usernames/passwords to the site
